@@ -1,5 +1,5 @@
 {
-  "report_sha256": "293e25ee3033007bc1084ff4f501d2c4d5edcd0312c15d5aa157fec2116ffdb0",
+  "report_sha256": "da833fcbd56cb778baef41e50ece209b2cdf834b23724180655a3c9ab2a7a8cf",
   "method": {
     "scope": "Only analysis paragraphs of the eight use cases and cross-cutting section between ANALYSIS markers; titles, product lists, introduction, and references excluded.",
     "explicit": "Case-insensitive whole-word alias occurrences. Longest overlapping match wins; each occurrence is counted once.",
