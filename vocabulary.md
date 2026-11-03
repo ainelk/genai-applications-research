@@ -1,7 +1,5 @@
 # Generative AI Vocabulary
 
-These 20 terms come from the [research report](research_report.md). The explanations use plain language and include a practical example. This is an AI-assisted study draft: read each entry, check that you understand it, and revise it in your own words before claiming the optional manual-vocabulary credit.
-
 | Term | Plain-language explanation | Example in the report |
 | --- | --- | --- |
 | **Large language model (LLM)** | A model trained on large amounts of language-related data to predict and generate text. It can write a fluent answer without knowing whether the answer is correct. | A support assistant drafts a reply to a customer's question. |
@@ -32,6 +30,3 @@ These 20 terms come from the [research report](research_report.md). The explanat
 - **Structured output vs. correctness:** A response can follow a schema perfectly and still contain a wrong value.
 - **Tool calling vs. authorization:** Requesting a function does not grant the model permission to execute it.
 
-## Suggested learner review
-
-Choose three entries, explain them aloud without reading, and add an example from your own work. Replace any explanation you would not naturally use. No manual-review completion is asserted in this draft.
