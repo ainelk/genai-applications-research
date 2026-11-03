@@ -111,5 +111,3 @@ Keep inference cost and latency visible in the operating budget. The system must
 This is a desk-research report, not a product ranking or proof of return on investment. The product examples demonstrate existing implementations; they were not tested against a shared dataset. Business benefits are hypotheses to validate in a pilot. Before adopting a tool, verify its current availability, access controls, retention behavior, integration limits, and total cost for the intended environment.
 
 The separate [vocabulary](vocabulary.md) explains 20 terms used in this analysis. The optional [relationship graph](vocabulary_graph.html) links those terms to use cases and displays explicit and implicit usage separately. Its counting method and auditable evidence are included in the project.
-
-**AI assistance disclosure:** This report and the initial vocabulary explanations were prepared with AI assistance. The vocabulary is a study draft for the learner to review and personalize, not a claim that the learner manually wrote the definitions or has already mastered every term.
